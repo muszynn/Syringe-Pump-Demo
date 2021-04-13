@@ -1,3 +1,3 @@
 # How to Build a Syringe Pump
 
-See mechanical page [here](/Syringe-Pump-Demo/mechanical) 
+##See Mechanical Page [here](/Syringe-Pump-Demo/mechanical) 
