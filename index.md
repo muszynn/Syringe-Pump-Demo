@@ -1,6 +1,6 @@
 # How to Build a Syringe Pump
 
-**See Mechanical Page** [here](/Syringe-Pump-Demo/Mechanical-Assembly) 
+**See Mechanical Page** [here](/Syringe-Pump-Demo/Mechanical-Assembly) for Bill of Materials
 |
 ![Mechanical Assembly of Syringe Pump] [here](/Syringe-Pump-Demo/Mechanical-Assembly/Mech_Assembly_Pics/mech_assembly.jpg)
 |
