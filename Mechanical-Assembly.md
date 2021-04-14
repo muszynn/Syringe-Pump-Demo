@@ -12,3 +12,12 @@ Item         | Quantity
 [M8 Hex Nut (1.25 mm thread)](https://www.mcmaster.com/90592A022/) | 1
 [5/32" T Nut & Bolt (1/4"-20 thread)](https://www.mcmaster.com/47065T139/) | 6
 [M3 screws (Depth 4.5mm)](https://www.mcmaster.com/screws/socket-head-screws/alloy-steel-socket-head-screws-8/) | 4
+
+## Mechanical Assembly Photos
+|
+![Mechanical Assembly of Syringe Pump](/Syringe-Pump-Demo/Mechanical-Assembly/Mech_Assembly_Pics/mech_assembly.jpg)
+|
+![Mechanical Assembly of Syringe Pump](/Syringe-Pump-Demo/Mechanical-Assembly/Mech_Assembly_Pics/mech_assembly_2.jpg)
+|
+![Model 3D Components](/Syringe-Pump-Demo/Mechanical-Assembly/Mech_Assembly_Pics/mech_assembly_3.jpg)
+
