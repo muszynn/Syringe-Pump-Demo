@@ -1,4 +1,4 @@
-<h1> **Calulating Resolution**
+**Calulating Resolution**
 
 Known Constants | Measurements
 --------------- | ----------------
@@ -9,6 +9,6 @@ Total Steps | 200 steps/ Rotation
 
 ![Minimum Resolution and Microstepping](/Resolution.jpg)
 
-<h1> **Calculating Flow Rate**
+**Calculating Flow Rate**
 
 ![Flow Rate](/Flow_Rate.jpg)
