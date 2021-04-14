@@ -11,3 +11,13 @@ Arduino Uno | 1
 DCNC-Nema 17-0.5nm Stepper Motor | 1
 Stepper Motor Driver | 1
 Heat Sink | 1
+
+
+
+![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Wiring_Schematic.jpg)
+
+![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Wiring_PCB.jpg)
+
+![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Assembly1.jpg)
+
+![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Assembly2.jpg)
