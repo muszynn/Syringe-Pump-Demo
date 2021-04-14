@@ -9,4 +9,4 @@
 **See Arduino G-code Firmware** [here](/Syringe-Prump-Demo/Arduino-G-Code)
 
 
-**See Flow Rate Specs** [here](Syringe-Pump-Demo/Specs)
+**See Flow Rate Specs** [here](/Syringe-Pump-Demo/Specs)
