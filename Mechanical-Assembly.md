@@ -17,12 +17,12 @@ Item         | Quantity
 
 ![Mechanical Assembly of Syringe Pump](/Mech_Assembly_Pics/mech_assembly.jpg)
 
-#The 3D printed stepper motor mount, plunger driver, syringe barrel holder, and syringe tip holder are aligned on the aluminum extrusion (in order). The stepper motor mount, barrel holder, and tip holder are anchored to the extrusion via T nuts and bolts (2 each). While the acme screw turns to drive forward motion at the defined flow rate in the G-code, the plunger driver moves with linear motion thus extruding the contents of the syringe. 
+# The 3D printed stepper motor mount, plunger driver, syringe barrel holder, and syringe tip holder are aligned on the aluminum extrusion (in order). The stepper motor mount, barrel holder, and tip holder are anchored to the extrusion via T nuts and bolts (2 each). While the acme screw turns to drive forward motion at the defined flow rate in the G-code, the plunger driver moves with linear motion thus extruding the contents of the syringe. 
 
 ![Mechanical Assembly of Syringe Pump](/Mech_Assembly_Pics/mech_assembly_2.jpg)
 
-#When designing the motor mount, make sure to obtain a snug fit in the gantry. This will allow the four M3 screws to be properly secured at a depth of 4.5mm to anchor the NEMA 17 motor in place. 
+# When designing the motor mount, make sure to obtain a snug fit in the gantry. This will allow the four M3 screws to be properly secured at a depth of 4.5mm to anchor the NEMA 17 motor in place. 
 
 ![Model 3D Components](/Mech_Assembly_Pics/mech_assembly_3.jpg)
 
-#Designing the 3D parts and assembling the complete model in Fusion 360 isn't too difficult. Give yourself a bit more time to get the plunger driver right if you are new to the software as positioning of the M8 hex nut kind of sucks. Regardless, Fusion 360 is quite user friendly, and it seems to be the software many people are moving to, especially as the CNC extension for Solidworks was recently made obsolete. 
+# Designing the 3D parts and assembling the complete model in Fusion 360 isn't too difficult. Give yourself a bit more time to get the plunger driver right if you are new to the software as positioning of the M8 hex nut kind of sucks. Regardless, Fusion 360 is quite user friendly, and it seems to be the software many people are moving to, especially as the CNC extension for Solidworks was recently made obsolete. 
