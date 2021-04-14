@@ -1,4 +1,4 @@
-#**Calulating Resolution**
+**Calulating Resolution**
 
 Known Constants | Measurements
 --------------- | ----------------
