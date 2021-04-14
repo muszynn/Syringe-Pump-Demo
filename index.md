@@ -3,5 +3,5 @@
 **See Mechanical Page** [here](/Syringe-Pump-Demo/Mechanical-Assembly)
 
 
-**See Electrical Page** [here](Syringe-Pump-Demo/Electrical-Assembly)
+**See Electrical Page** [here](/Syringe-Pump-Demo/Electrical-Assembly)
 
