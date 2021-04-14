@@ -13,6 +13,7 @@ Stepper Motor Driver | 1
 Heat Sink | 1
 
 
+## Electrical Assembly Photos & Diagrams
 
 ![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Wiring_Schematic.jpg)
 
