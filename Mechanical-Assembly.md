@@ -14,10 +14,12 @@ Item         | Quantity
 [M3 screws (Depth 4.5mm)](https://www.mcmaster.com/screws/socket-head-screws/alloy-steel-socket-head-screws-8/) | 4
 
 ## Mechanical Assembly Photos
-|
-![Mechanical Assembly of Syringe Pump](/Syringe-Pump-Demo/Mechanical-Assembly/Mech_Assembly_Pics/mech_assembly.jpg)
-|
+
+![Mechanical Assembly of Syringe Pump](/Mech_Assembly_Pics/mech_assembly.jpg)
+
+
 ![Mechanical Assembly of Syringe Pump](/Syringe-Pump-Demo/Mechanical-Assembly/Mech_Assembly_Pics/mech_assembly_2.jpg)
-|
+
+
 ![Model 3D Components](/Syringe-Pump-Demo/Mechanical-Assembly/Mech_Assembly_Pics/mech_assembly_3.jpg)
 
