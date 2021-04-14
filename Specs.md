@@ -9,5 +9,6 @@ Total Steps | 200 steps/ Rotation
 
 ![Minimum Resolution and Microstepping](/Resolution.jpg)
 
+**Calculating Flow Rate**
 
 ![Flow Rate](/Flow_Rate.jpg)
