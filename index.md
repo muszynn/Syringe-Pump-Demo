@@ -1,10 +1,10 @@
 # How to Build a Syringe Pump
 
-![Mechanical Assembly of Syringe Pump](/Mech_Assembly_Pics/mech_assembly.jpg)
-
 **Overview**
 
 Syringe pumps are used in biomedical and chemical scientific research to withdraw or infuse precise but gradual amounts of fluid, with or without added factors such as cells. However, laboratory syringe pumps can run between $500-2000 USD, and building one is much cheaper and easier than one might expect. This website shows you how to model 3D printed parts in Fusion 360, assemble them with commercial products purchased from McMaster Carr, and power the assembled products with an Arduino Uno. 
+
+![Mechanical Assembly of Syringe Pump](/Mech_Assembly_Pics/mech_assembly.jpg)
 
 **See Mechanical Page** [here](/Syringe-Pump-Demo/Mechanical-Assembly)
 
