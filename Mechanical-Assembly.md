@@ -15,6 +15,10 @@ Item         | Quantity
 
 ## Mechanical Assembly Photos
 
+![Mechanical Assembly of Syringe Pump](/syringe_specs.jpg)
+
+### The entire Fusion 360 design is based on the specs of the syringe and NEMA 17 motor. Note that not all syringe brands have the same dimensions even if they hold the same capacity. 
+
 ![Mechanical Assembly of Syringe Pump](/Mech_Assembly_Pics/mech_assembly.jpg)
 
 ### The 3D printed stepper motor mount, plunger driver, syringe barrel holder, and syringe tip holder are aligned on the aluminum extrusion (in order). The stepper motor mount, barrel holder, and tip holder are anchored to the extrusion via T nuts and bolts (2 each). While the acme screw turns to drive forward motion at the defined flow rate in the G-code, the plunger driver moves with linear motion thus extruding the contents of the syringe. 
