@@ -17,7 +17,7 @@ Item         | Quantity
 
 ![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Wiring_Schematic.jpg)
 
-![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Wiring_PCB.png)
+![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Wiring_Driver.png)
 
 ![Electrical Assembly of Syringe Pump](/Elec_Assembly_Pics/Electrical_Assembly1.jpg)
 
