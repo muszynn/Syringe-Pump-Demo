@@ -20,7 +20,7 @@ Item         | Quantity
 
 ## Mechanical Assembly Photos
 
-![Mechanical Assembly of Syringe Pump](/syringe_specs.jpg)
+![Mechanical Assembly of Syringe Pump](/syringe_specs.png)
 
 ### The entire Fusion 360 design is based on the specs of the syringe and NEMA 17 motor. Note that not all syringe brands have the same dimensions even if they hold the same capacity. 
 
