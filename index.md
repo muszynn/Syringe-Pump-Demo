@@ -1,5 +1,7 @@
 # How to Build a Syringe Pump
 
+![Mechanical Assembly of Syringe Pump](/Syringe-Pump-Demo/Mech_Assembly_Pics/mech_assembly.jpg)
+
 **Overview**
 
 
