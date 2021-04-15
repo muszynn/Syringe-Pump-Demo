@@ -13,6 +13,11 @@ Item         | Quantity
 [5/32" T Nut & Bolt (1/4"-20 thread)](https://www.mcmaster.com/47065T139/) | 6
 [M3 screws (Depth 4.5mm)](https://www.mcmaster.com/screws/socket-head-screws/alloy-steel-socket-head-screws-8/) | 4
 
+
+## Fusion 360 Model
+
+<iframe src="https://vanderbilt428.autodesk360.com/shares/public/SH56a43QTfd62c1cd968fc7ec97f3bc74a30?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> 
+
 ## Mechanical Assembly Photos
 
 ![Mechanical Assembly of Syringe Pump](/syringe_specs.jpg)
